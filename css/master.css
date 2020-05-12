@@ -1,0 +1,10 @@
+*{
+  padding-left: 2px;
+  padding-top: 2px;
+  max-width: 100%;
+  <!-- background-color: lavender; -->
+}
+header{
+  text-align: center;
+  font-family: inherit;
+}
